@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/Selenium_Practice_Website_Angular',
+  basePath: '/WebPageForAutomation',
   supportedLocales: {
   "en-US": ""
 },
